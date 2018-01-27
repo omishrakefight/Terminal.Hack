@@ -10,8 +10,8 @@ public class Hacker : MonoBehaviour {
     int PlayAgain;
 
     // Passwords
-    string[] Password1 = { "bookworm", "pseudonym", "index", "author", "dictionary", "bibliography", "encyclopedia", "catalog" };
-    string[] Caps1 = { "Bookworm", "Pseudonym", "Index", "Author", "Dictionary", "Bibliography", "Encyclopedia", "Catalog" };
+    string[] Password1 = { "bookworm", "pseudonym", "index", "author", "dictionary", "bibliography", "encyclopedia", "catalog", "librarian" };
+    string[] Caps1 = { "Bookworm", "Pseudonym", "Index", "Author", "Dictionary", "Bibliography", "Encyclopedia", "Catalog", "Librarian" };
 
     string[] Password2 = { "sheriff", "misdemeanor", "perpetrator", "jurisdiction", "detective", "holster", "handcuffs"};
     string[] Caps2 = { "Sheriff", "Misdemeanor", "Perpetrator", "Jurisdiction", "Detective", "Holster", "Handcuffs" };
